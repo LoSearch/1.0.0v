@@ -1,7 +1,4 @@
-"""
-LoSearch Speed Optimization Engine
-موتور بهینه‌سازی سرعت LoSearch
-"""
+
 
 import time
 import hashlib
