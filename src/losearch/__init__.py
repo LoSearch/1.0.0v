@@ -1,16 +1,9 @@
-"""
-LoSearch - Advanced Persian/English Search Engine
-سیستم جستجوی پیشرفته فارسی/انگلیسی با سرعت بالا
-"""
+
 
 from .core.engine import LoSearchEngine
 from .utils.text_processor import TextProcessor
 
 class LoSearch:
-    """
-    LoSearch - High-Performance Search Engine
-    موتور جستجوی پرسرعت با دقت بالا
-    """
     
     def __init__(self, enable_optimization: bool = True):
         """Initialize LoSearch engine"""
