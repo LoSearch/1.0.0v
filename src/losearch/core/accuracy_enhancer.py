@@ -1,7 +1,4 @@
-"""
-LoSearch Accuracy Enhancement System
-سیستم افزایش دقت جستجوی LoSearch
-"""
+
 
 import re
 import math
@@ -10,10 +7,6 @@ from collections import defaultdict, Counter
 from typing import List, Dict, Any, Set, Tuple
 
 class AccuracyEnhancer:
-    """
-    Advanced Accuracy Enhancement System
-    سیستم پیشرفته افزایش دقت
-    """
     
     def __init__(self):
         # Persian/English patterns
