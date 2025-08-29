@@ -1,7 +1,7 @@
 # LoSearch - Advanced Search Engine Library
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/losearch)
+[![Version](https://img.shields.io/badge/version-0.1.2-green.svg)](https://github.com/yourusername/losearch)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 A high-performance Python search library with intelligent relevance scoring, advanced indexing capabilities, and multilingual support for Persian and English.
