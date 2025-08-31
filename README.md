@@ -178,7 +178,7 @@ search.add_documents(all_documents)  # Preferred over individual adds
 result = search.contextual_search(query, mode='advanced')
 ```
 
-## Version 1.0.0
+## Version 0.1.2
 
 ### What's New
 - Complete rewrite with modular architecture
